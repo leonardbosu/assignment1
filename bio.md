@@ -1,6 +1,6 @@
 <header>Barry Leonard's Bio:</header>
 
-Hello! My name is Barry Leonard and I currently live in San Diego, California! I work as a polymer chemist for a biotech company, making fluorescent dyes used in biomedical imaging applications. I am working through OSU's inline post-bass program with the hopes that I can begin to develop applications for use in biotech, and potentially shifting over to a field like chemoinformatics! In my free time I like to sail, surf, hike, brew beer and play instruments! I'm hoping to be able to sail to California's off shore islands by this summer!
+Hello! My name is Barry Leonard and I currently live in San Diego, California! I work as a polymer chemist for a biotech company, making fluorescent dyes used in biomedical imaging applications. I am working through OSU's inline post-bass program with the hopes that I can begin to develop applications for use in biotech, and potentially shifting over to a field like chemoinformatics! In my free time I like to sail, surf, hike, brew beer and play instruments! I'm hoping to be able to sail to California's off shore islands by this summer. I am also planning on headed to Coachella!
 
 <header>Programming background:</header>
 
