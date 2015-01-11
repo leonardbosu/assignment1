@@ -4,4 +4,5 @@ Hello! My name is Barry Leonard and I currently live in San Diego, California! I
 
 <header>Programming background:</header>
 
-I had minimal programming experience before starting this program. I messed around with HTML in middle school (geocities woot!) but nothing since then. I had some exposure to matlab and maple and mathematical in my chemistry undergrad, but nothing since then.
+I had minimal programming experience before starting this program. I messed around with HTML in middle school (geocities woot!) but nothing since then. I had some exposure to matlab and maple and mathematical in my chemistry undergrad, but nothing since then. Before starting this program I participated in a few MOOCs that uses python, java, and ML languages. 
+
